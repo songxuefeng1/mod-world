@@ -5,3 +5,5 @@ MCreator 26.2
 
 UPDATED:
 1.0.2&1.1.0 uploaded on 2026/9/5
+3.0.0 uploaded on 2026/11/20
+3.0.5 uploaded on 2026/11/21
